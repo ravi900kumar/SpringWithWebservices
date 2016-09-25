@@ -23,6 +23,8 @@ http://localhost:8090/SpringWithWebservices/product/name/product 1
  
  Step -3   
 http://localhost:8090/SpringWithWebservices/product/name/product 1.json
+
+
  
  Output :  {
   "name": "product 1",
@@ -33,7 +35,8 @@ http://localhost:8090/SpringWithWebservices/product/name/product 1.json
 
 url = http://localhost:8090/SpringWithWebservices/product/name/product 1.json
 
-product = controller name
-name = method name
+ 
+product = controller name,
+name = method name,
 product 1 = passing parameter.
 
